@@ -8,8 +8,6 @@ Welcome to this web development project repository! This project includes two mi
 1. [To-Do Web App](#to-do-web-app)
 2. [Calculator](#calculator)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## To-Do Web App
 
