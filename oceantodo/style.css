@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.ocean-background {
+    background-image: url("ocean.jpg"); /* Replace with your ocean image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Adjust text color for readability */
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#new-task {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#add-task {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#task-list {
+    list-style: none;
+    padding: 0;
+}
+
+#task-list li {
+    margin-bottom: 10px;
+}
+
